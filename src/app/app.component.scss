@@ -1,6 +1,7 @@
 section {
   max-width: 1024px;
   margin: 0 auto;
+  padding: 0 1.5rem;
   .btn-menu {
     letter-spacing: 1.5px;
     font-size: 1rem;
@@ -18,7 +19,7 @@ section {
   main {
     display: grid;
     margin: 0 auto;
-    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
     gap: 20px;
   }
 }

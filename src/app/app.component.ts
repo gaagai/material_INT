@@ -34,9 +34,7 @@ export class AppComponent {
       'todo 3',
     ],
     inProgress: [
-      'inProgress 1',
-      'inProgress 2',
-      'inProgress 3',
+
     ],
     review: [
       'review 1',
